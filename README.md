@@ -5,7 +5,7 @@ wget https://raw.githubusercontent.com/McDull-GitHub/aria2c/master/aria2-1.35.0.
 ```
 
 ```
-cd ~ && madir .local
+cd ~ && mkdir .local
 ```
 
 ```
